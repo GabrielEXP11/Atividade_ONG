@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projetos Sociais - ONG EDUCAP</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <img src="imagens/educap.webp" alt="Logotipo da ONG" />
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html" aria-current="page">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <h1>Projetos Sociais</h1>
+      <br>
+
+      <section>
+        <h2>Voluntariando</h2>
+        <br>
+
+        <br>
+        <img src="imagens/VOLUNTARIOS.jpg" alt="Voluntários em ação" />
+        <p>Oferecemos diversas oportunidades para que você possa se envolver e ajudar a comunidade local.</p>
+      </section>
+
+      <section>
+        <br>
+
+
+        <br>
+
+        <h2>Como doar</h2>
+
+        <br>
+
+
+        <br>
+       
+        <p>Você pode colaborar com doações financeiras ou materiais para fortalecer nossos projetos.</p>
+      </section>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 ONG EDUCAP. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
